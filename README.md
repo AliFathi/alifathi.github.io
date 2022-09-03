@@ -1,1 +1,1 @@
-code for my [GitHub](alifathi.github.io) page.
+code for my [GitHub](https://alifathi.github.io) page.
